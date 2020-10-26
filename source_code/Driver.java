@@ -1,0 +1,10 @@
+import javax.swing.*;
+import java.awt.*;
+import java.util.*;
+
+public class Driver {
+	public static void main (String[] args) { 
+		CheckInGUI checkIn = new CheckInGUI();
+		CheckInController cont = new CheckInController(checkIn);
+	}
+}
