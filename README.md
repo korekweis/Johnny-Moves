@@ -1,5 +1,15 @@
 # Johnny-Moves
 
+File to run: Driver.java
+
+Passwords: 
+Accounting and Finance = ACCFIN-1221 
+Courier Driver = DRIVER-3141 
+Human Resources = HUMRES-5643
+Information Technology = INFTEC-7008 
+Learning and Development = LRNDEV-0910
+
+
 The Johnny Moves program is a courier company that allows users to self check-out parcels for delivery to their partner sites or branches.
 
 This will be held in the company's Manila shop, he/she is required to input the name of the recipient, region of delivery, and key in the number of items he/she wants to place in the parcel (as one shipment), and input the information needed for each of the items. The user is also given the choice to insure the parcel for a given fee. Once the information needed is complete, the program then determines which among the available parcels can be used in which the user can choose from. The customer is then given the breakdown of the fees as well as the total fee for the delivery to push through and lastly, the user will be given the tracking information needed for him/her to track the parcel delivered.
@@ -15,3 +25,4 @@ Parcels: Flat Parcel: Used for documents (a 25 sheet document is computed as 1 i
 18 x 12 x 9 inches
 20 x 16 x 12 inched
 Tracking information includes the start date (this is when the customer came in to have his items delivered), the generated tracking number, current status, and update date.
+
